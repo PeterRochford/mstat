@@ -1,0 +1,29 @@
+------------------------------------------------------------------
+lmstat - Copyright (c) 1989-2008 Acresso Software Inc. All Rights Reserved.
+Flexible License Manager status on Tue 2/3/2015 16:42
+
+License server status: 27000@ocs-s-lnxapp01.nos.noaa
+    License file(s) on ocs-s-lnxapp01.nos.noaa: /var/tmp/lm_TMW.dat:
+
+ocs-s-lnxapp01.nos.noaa: license server UP (MASTER) v11.11
+
+Vendor daemon status (on ocs-s-lnxapp01.nos.noaa):
+
+       MLM: UP v11.11
+Feature usage info:
+
+Users of MATLAB:  (Total of 3 licenses issued;  Total of 3 licenses in use)
+
+  "MATLAB" v31, vendor: MLM
+  floating license
+
+    alexander.kurapov.lx ocs-s-lnxapp01.nos.noaa /dev/pts/0 (v31) (ocs-s-lnxapp01.nos.noaa/27000 122), start Fri 1/30 8:44
+    lei.shi.lx ocs-s-lnxapp01.nos.noaa /dev/pts/2 (v31) (ocs-s-lnxapp01.nos.noaa/27000 202), start Wed 1/28 10:11
+    zizang.yang.lx ocs-s-lnxapp01.nos.noaa /dev/pts/1 (v31) (ocs-s-lnxapp01.nos.noaa/27000 415), start Tue 2/3 8:05
+
+Users of Signal_Toolbox:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+Users of Statistics_Toolbox:  (Total of 2 licenses issued;  Total of 0 licenses in use)
+
+
+------------------------------------------------------------------
